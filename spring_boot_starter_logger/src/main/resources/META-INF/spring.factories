@@ -1,0 +1,4 @@
+org.springframework.boot.env.EnvironmentPostProcessor=\
+org.openschool.springbootstarterlogger.environmentInit.CustomEnvironmentPostProcessor
+org.springframework.boot.diagnostics.FailureAnalyzer=\
+org.openschool.springbootstarterlogger.environmentInit.PropertyFailureAnalyzer
